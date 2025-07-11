@@ -10,7 +10,7 @@ This project allows users to manage customer vehicles, track services status, ge
 - ServicedVehicle.java - Records vehicles that have completed service
 - VehicleSearch.java - Enables search by vehicle details
 - AddVehicle.java - Take the Vehicle for service
-- garage_log.txt - save all the history of vehciles
+- garage_log.txt - save all the history of vehicles
   
 ## Features 
 - Maintain separate lists for pending and serviced vehicles
@@ -26,7 +26,7 @@ This project allows users to manage customer vehicles, track services status, ge
 - Exception Handling
 
 ## Run the main Class :
-java Garage
+Garage.java
 
 ## Author
 Harsh Sonkusare  
