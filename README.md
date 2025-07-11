@@ -1,2 +1,2 @@
 # Garage-Management
-Built A Garage Management System using Core Java. 
+A console-based Garage Management System built using Core Java.
