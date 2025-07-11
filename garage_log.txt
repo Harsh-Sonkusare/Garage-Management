@@ -1,0 +1,10 @@
+
+Date 	   : 2025-07-10
+Time  	   : 10:21pm
+Owner      : Devesh Wadhibhasme
+Contact    : 1234567890
+Vehicle    : MH12BA1234
+Services   : [Engine Repair]
+Price      : [5000]
+Total Bill : 5000
+------------------------------------------------------------
