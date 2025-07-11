@@ -12,7 +12,7 @@ This project allows users to manage customer vehicles, track services status, ge
 - AddVehicle.java - Take the Vehicle for service
 - garage_log.txt - save all the history of vehciles
   
- Features 
+## Features 
 - Maintain separate lists for pending and serviced vehicles
 - View and generate billing based on selected services
 - Search Vehicle by number
